@@ -36,4 +36,4 @@ use Twilio\Rest\Client;
         ]
     );
 
-header("location: ../index.php");
+header("location: ../index.html");
